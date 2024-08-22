@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    background-color: darkkhaki;
+    color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+
+.input{
+    width: 100%;
+    font-size: 20px;
+    height: 30px;
+
+}
+
+p{
+    padding-top: 1rem;
+}
+
+.payment{
+    font-weight: 600;
+    font-size: 20px;
+
+}
